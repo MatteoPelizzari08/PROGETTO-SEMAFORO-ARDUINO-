@@ -1,4 +1,4 @@
-# PROGETTO-SEMAFORO-ARDUINO-
+# PROGETTO-SEMAFORO-ARDUINO (by Matteo Pelizzari)
 in questo progetto utilizzo Arduino per fare la simulazione del semaforo e, ogni volta che premo il bottone, salva lo stato in un file data.csv 
 
 il file "sketch_feb6" è il file per aprire in Arduino IDE
